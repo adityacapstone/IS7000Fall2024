@@ -3,8 +3,8 @@ import React from 'react';
 function App() {
   return (
     <div className="App">
-      <h1>Hello World, This is Aditya React!</h1>
-      <p>This is a sample React code.</p>
+      <h1>Hello, React!</h1>
+      <p>This is a sample React component.</p>
     </div>
   );
 }
